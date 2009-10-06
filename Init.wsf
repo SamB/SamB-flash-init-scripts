@@ -1,0 +1,7 @@
+<job id="main" prompt="no">
+	<?job error="true" debug="true" ?>
+	<script language="JScript" src="Init.js"/>
+	<script language="JScript">
+Init.installFont("unifont-mono.ttf");
+	</script>
+</job>
